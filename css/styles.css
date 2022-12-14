@@ -209,12 +209,16 @@ p {
 /* ==================== / HEADER ====================  */
 
 /* -------------------- I SECTION - HERO -------------------- */
+.section-hiro {
+    justify-content: center;
+}
 .hiro-fon {
     width: 1440px;
     height: 603px;
     margin-left: auto;
     margin-right: auto;
     align-items: center;
+    justify-content: center;
     background-image: linear-gradient(rgb(46, 47, 66, 0.7), rgb(46, 47, 66, 0.7)),url("../imades/people-office.jpg");
     background-size: cover;
     background-color: #434455;
