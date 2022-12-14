@@ -469,7 +469,7 @@ p {
 }
 /* -------------------- FOOTER -------------------- */
 .footer-fon {
-    background-color: var(--navi-blue-dark);
+    background: var(--navi-blue-dark);
     background-position: center;
 }
 .footer-section {
